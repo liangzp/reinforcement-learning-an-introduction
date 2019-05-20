@@ -12,6 +12,7 @@ Python replication for Sutton & Barto's book [*Reinforcement Learning: An Introd
 1. Tic-Tac-Toe
 
 ### Chapter 2
+[Colad](https://colab.research.google.com/drive/1Nvi-3BKSCCLwWXcRK0hXwuvQFRNy_yJS)
 1. [Figure 2.1: An exemplary bandit problem from the 10-armed testbed](https://raw.githubusercontent.com/ShangtongZhang/reinforcement-learning-an-introduction/master/images/figure_2_1.png)
 2. [Figure 2.2: Average performance of epsilon-greedy action-value methods on the 10-armed testbed](https://raw.githubusercontent.com/ShangtongZhang/reinforcement-learning-an-introduction/master/images/figure_2_2.png)
 3. [Figure 2.3: Optimistic initial action-value estimates](https://raw.githubusercontent.com/ShangtongZhang/reinforcement-learning-an-introduction/master/images/figure_2_3.png)
